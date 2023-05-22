@@ -5,7 +5,7 @@ SPDX-License-Identifier: MPL-2.0
 -->
 
 # IEC-CIM-conversion-services (Beta)
-This repo contains the IECCimToPMG and PMGToIECCim conversion services that [RSE](https://www.rse-web.it/) developed. They developed these services to integrate PMG into their DSO platform. Since there is a broader interest in IECCimToPMG and PMGToIECCim conversion services they will open source these services and contribute them to the PMG project. In the future, these services may be integrated into [power-grid-model-io](https://github.com/PowerGridModel/power-grid-model-io). 
+This repo contains the IECCimToPGM and PGMToIECCim conversion services that [RSE](https://www.rse-web.it/) developed. They developed these services to integrate Power Grid Model into their DSO platform. Since there is a broader interest in IECCimToPGM and PGMToIECCim conversion services they will open source these services and contribute them to the Power Grid Model project. In the future, these services may be integrated into [power-grid-model-io](https://github.com/PowerGridModel/power-grid-model-io). 
 
 # Notable contributors
 Our gratitude goes to the following contributors who have worked (and are still working) on these services before it became open source:
